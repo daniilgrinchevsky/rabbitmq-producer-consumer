@@ -1,0 +1,4 @@
+com\example\producer\Application.class
+com\example\producer\Message.class
+com\example\producer\RabbitMqConfig.class
+com\example\producer\RabbitMqSender.class
